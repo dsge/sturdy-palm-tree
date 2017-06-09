@@ -1,0 +1,15 @@
+{
+    "name": "clapp/shopcontracts",
+    "authors": [
+        {
+            "name": "gergely.sarosi",
+            "email": "gergely.sarosi@clapp.eu"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Clapp\\Shop\\Contracts\\": "src/"
+        }
+    }
+}
